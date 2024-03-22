@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkburgers=self.webpackChunkburgers||[]).push([[532],{481:()=>{}},e=>{e(e.s=481)}]);
